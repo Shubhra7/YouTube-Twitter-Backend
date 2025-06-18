@@ -34,6 +34,15 @@ This project streamlines the development of social video and microblogging platf
 
 ---
 
+
+## Important links
+
+| Content            | Link                                                                        |
+| -------------------| ----------------------------------------------------------------------------|
+| API Documentation  | [click here](https://documenter.getpostman.com/view/44177090/2sB2x9jWVQ)    |
+| Model              | [click here ](https://app.eraser.io/workspace/BGrvuW5EJ9ytRiTfOf8e?origin=share)         |
+
+
 ## 🚀 Features
 
 ### 🧑‍💻 User Management:
@@ -123,11 +132,5 @@ This project streamlines the development of social video and microblogging platf
 
 If you wish to contribute to this project, please feel free to contribute.
 
-## Important links
-
-| Content            | Link                                                                        |
-| -------------------| ----------------------------------------------------------------------------|
-| API Documentation  | [click here](https://documenter.getpostman.com/view/44177090/2sB2x9jWVQ)    |
-| Model              | [click here ](https://app.eraser.io/workspace/BGrvuW5EJ9ytRiTfOf8e?origin=share)         |
 
 
