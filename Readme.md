@@ -1,4 +1,26 @@
-# YouTube + Twitter Backend 
+# 📺🐦 YOUTUBE-TWITTER-BACKEND
+
+**Empowering Seamless Social Video & Microblogging Experiences Everywhere**
+
+---
+
+## 📊 Stats  
+**Last Commit:** _Today_  
+**Languages:** `JavaScript` **100.0%** | _1 Language_
+
+---
+
+## 🛠️ Built With
+
+| 🛠️ Tech Stack | 📦 Tools & Packages |
+|:--------------|:------------------|
+| ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript) | ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white) |
+| ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white) |
+| ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) |
+
+---
 
 ## Introduction
 
