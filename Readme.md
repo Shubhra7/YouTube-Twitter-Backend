@@ -4,9 +4,6 @@
 
 ---
 
-## 📊 Stats  
-**Last Commit:** _Today_  
-**Languages:** `JavaScript` **100.0%** | _1 Language_
 
 ---
 
