@@ -128,6 +128,6 @@ If you wish to contribute to this project, please feel free to contribute.
 | Content            | Link                                                                        |
 | -------------------| ----------------------------------------------------------------------------|
 | API Documentation  | [click here]()    |
-| Model              | [click here ](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)         |
+| Model              | [click here ](https://app.eraser.io/workspace/BGrvuW5EJ9ytRiTfOf8e?origin=share)         |
 
 
