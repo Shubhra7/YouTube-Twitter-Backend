@@ -95,16 +95,6 @@ This project streamlines the development of social video and microblogging platf
 
 ---
 
-## 🛠️ Technologies Used:
-
-- **Node.js**
-- **Express.js**
-- **MongoDB**
-- **Mongoose**
-- **Cloudinary** (for cloud-based media storage — requires a Cloudinary account)
-
----
-
 ## Installation and Setup
 
 1. **Clone the repository:**
